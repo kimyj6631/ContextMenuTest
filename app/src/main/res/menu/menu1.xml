@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:id="@+id/menu1.item.rotation"
-        android:title="이미지(회전)"/>
+    <item android:id="@+id/menu1.item.red"
+        android:title="빨강"/>
 
-    <item android:id="@+id/menu1.item.size"
-        android:title="이미지(크기)"
+    <item android:id="@+id/menu1.item.blue"
+        android:title="파랑"
+        />
+    <item android:id="@+id/menu1.item.pink"
+        android:title="분홍"
         />
 </menu>
